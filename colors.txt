@@ -4,3 +4,7 @@ Green
 Yellow
 Magenta
 Violet
+Pink
+Peach
+Red
+Orange
